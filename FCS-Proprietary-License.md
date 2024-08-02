@@ -42,7 +42,7 @@ This Proprietary License ("License") governs your use of software and related ma
 
 8. Governing Law
 
-This License shall be governed by and construed in accordance with the laws of the State of [Insert State], without regard to its conflict of law principles.
+This License shall be governed by and construed in accordance with the laws of the State of Tennessee, without regard to its conflict of law principles.
 
 9. Entire Agreement
 
