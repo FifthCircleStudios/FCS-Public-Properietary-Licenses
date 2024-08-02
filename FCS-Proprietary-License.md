@@ -1,10 +1,12 @@
-Fifth Circle Studios Proprietary License
+### Fifth Circle Studios Proprietary License
+
 Effective Date: Aug 2, 2024
 
-1. Overview
+## 1. Overview
+
 This Proprietary License ("License") governs your use of software and related materials developed and provided by Fifth Circle Studios ("Fifth Circle"). By accessing, using, or obtaining any software or materials from Fifth Circle, you agree to comply with the terms outlined in this License. If you do not agree to these terms, you must not use or access the software or materials.
 
-2. Definitions
+## 2. Definitions
 
 "Code" refers to the source code and object code of the software and related materials provided by Fifth Circle Studios.
 "Proprietary Code" means any Code developed by Fifth Circle Studios that is not open source and is subject to the terms of this License.
@@ -12,11 +14,13 @@ This Proprietary License ("License") governs your use of software and related ma
 "Confidential Portions" are parts of the Code that are intentionally obscured or omitted when paired with open-source components, to protect proprietary aspects of Fifth Circle's software.
 3. License Grant
 
-3.1 Usage Rights: You may use the Proprietary Code only in accordance with the terms of this License. You may not access, modify, or distribute the Proprietary Code except as expressly permitted by Fifth Circle.
+# 3.1 Usage Rights: 
+You may use the Proprietary Code only in accordance with the terms of this License. You may not access, modify, or distribute the Proprietary Code except as expressly permitted by Fifth Circle.
 
-3.2 Restrictions: You must not use the Proprietary Code for purposes that convey malice, or promote personal, political, or religious views. Additionally, you are prohibited from reverse engineering, decompiling, or disassembling the Proprietary Code.
+# 3.2 Restrictions: 
+You must not use the Proprietary Code for purposes that convey malice, or promote personal, political, or religious views. Additionally, you are prohibited from reverse engineering, decompiling, or disassembling the Proprietary Code.
 
-4. Open-Source Integration
+## 4. Open-Source Integration
 
 4.1 Public Code Usage: When using Public Code in conjunction with Proprietary Code, you must adhere to the terms of the applicable open-source licenses for the Public Code. Portions of the Code that are part of open-source projects will be available as specified by those licenses, but Proprietary Code will remain confidential.
 
