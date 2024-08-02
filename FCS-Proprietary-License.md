@@ -1,4 +1,4 @@
-### Fifth Circle Studios Proprietary License
+# Fifth Circle Studios Proprietary License
 
 Effective Date: Aug 2, 2024
 
@@ -14,10 +14,10 @@ This Proprietary License ("License") governs your use of software and related ma
 "Confidential Portions" are parts of the Code that are intentionally obscured or omitted when paired with open-source components, to protect proprietary aspects of Fifth Circle's software.
 3. License Grant
 
-# 3.1 Usage Rights: 
+### 3.1 Usage Rights: 
 You may use the Proprietary Code only in accordance with the terms of this License. You may not access, modify, or distribute the Proprietary Code except as expressly permitted by Fifth Circle.
 
-# 3.2 Restrictions: 
+### 3.2 Restrictions: 
 You must not use the Proprietary Code for purposes that convey malice, or promote personal, political, or religious views. Additionally, you are prohibited from reverse engineering, decompiling, or disassembling the Proprietary Code.
 
 ## 4. Open-Source Integration
